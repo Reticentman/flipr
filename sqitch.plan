@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/theory/sqitch-intro/
 
+appschema 2017-04-01T22:05:55Z Nick Sima <nick@mail.com> # Add schema for all flipr objects.
