@@ -12,4 +12,5 @@ CREATE TABLE flipr.flips (
     body      TEXT        NOT NULL DEFAULT '' CHECK ( length(body) <= 180 ),
     timestamp TIMESTAMPTZ NOT NULL DEFAULT clock_timestamp()
 );
+
 COMMIT;

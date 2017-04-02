@@ -7,3 +7,5 @@ users [appschema] 2017-04-02T00:09:44Z Nick Sima <nick@mail.com> # Creates table
 insurt_user [users appschema] 2017-04-02T05:06:19Z Nick Sima <nick@mail.com> # Creats a function to insert a user.
 change_pass [users appschema] 2017-04-02T05:10:30Z Nick Sima <nick@mail.com> # creates a way for you to change passwords.
 @v1.0.0-dev1 2017-04-02T05:54:52Z Nick Sima <nick@mail.com> # Tag v1.0.0-dev1.
+
+flips [appschema users] 2017-04-02T06:25:09Z Nick Sima <nick@mail.com> # Adds table for storing flips.
