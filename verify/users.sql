@@ -6,6 +6,4 @@ SELECT nickname, password, timestamp
   FROM flipr.users
  WHERE FALSE;
 
--- XXX Add verifications here.
-
 ROLLBACK;

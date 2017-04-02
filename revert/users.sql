@@ -4,6 +4,5 @@ BEGIN;
 
 DROP TABLE flipr.users;
 
--- XXX Add DDLs here.
 
 COMMIT;

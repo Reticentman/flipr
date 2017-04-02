@@ -2,6 +2,4 @@
 
 BEGIN;
 DROP SCHEMA flipr;
--- XXX Add DDLs here.
-
 COMMIT;
