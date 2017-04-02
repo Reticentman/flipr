@@ -6,3 +6,4 @@ appschema 2017-04-01T22:05:55Z Nick Sima <nick@mail.com> # Add schema for all fl
 users [appschema] 2017-04-02T00:09:44Z Nick Sima <nick@mail.com> # Creates table to track our users.
 insurt_user [users appschema] 2017-04-02T05:06:19Z Nick Sima <nick@mail.com> # Creats a function to insert a user.
 change_pass [users appschema] 2017-04-02T05:10:30Z Nick Sima <nick@mail.com> # creates a way for you to change passwords.
+@v1.0.0-dev1 2017-04-02T05:54:52Z Nick Sima <nick@mail.com> # Tag v1.0.0-dev1.
